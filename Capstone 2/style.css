@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url("./assets/shubham-dhage-NsPqV-WsZYY-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p,
+li {
+  color: #b6bbbf;
+}
+
+.gradient-color {
+  background-color: #e6edf2;
+  background-image: linear-gradient(45deg, #e6edf2, #6d7073);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
